@@ -49,6 +49,3 @@ if st.button('Fetch Weather'):
 
     else:
         st.error('Invalid city name. Please enter a valid city name.')
-
-else:
-    st.error('Please enter a city name.')
